@@ -22,4 +22,4 @@ This project aims to develop a data-driven approach for predicting wastewater tr
 
 ## 📘 Complete Project Report
 
-📄 [Download the full PDF report] cost-prediction-bradtanguin.pdf](https://github.com/user-attachments/files/33138061/cost-prediction-bradtanguin.pdf)
+📄 [Download the full PDF report] (./cost-prediction-bradtanguin.pdf](https://github.com/user-attachments/files/33138061/cost-prediction-bradtanguin.pdf)
