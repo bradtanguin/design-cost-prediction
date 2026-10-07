@@ -19,8 +19,7 @@ This project aims to develop a data-driven approach for predicting wastewater tr
 
 ## 📋 Project Framework
 <img width="668" height="1022" alt="Cost-Prediction-Framework" src="https://github.com/user-attachments/assets/001822ec-fdb2-40e1-83d2-02d194d6c784" />
-[cost-prediction-bradtanguin.pdf](https://github.com/user-attachments/files/33138061/cost-prediction-bradtanguin.pdf)
 
 ## 📘 Complete Project Report
 
-📄 [Download the full PDF report][cost-prediction-bradtanguin.pdf](https://github.com/user-attachments/files/33138061/cost-prediction-bradtanguin.pdf)
+📄 [Download the full PDF report] cost-prediction-bradtanguin.pdf](https://github.com/user-attachments/files/33138061/cost-prediction-bradtanguin.pdf)
